@@ -2,7 +2,7 @@
 
 CKEditor5与Angular集成，并实现插入ECharts图表功能。
 
-[Demo](https://doautumn.github.io/CKEditor5/)
+[演示Demo](https://doautumn.github.io/CKEditor5/)
 
 ### 开发
 
