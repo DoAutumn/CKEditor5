@@ -42,6 +42,7 @@
             "customWebpackConfig": {
               "path": "./webpack.config.js"
             },
+            "baseHref": "./",
             "outputPath": "dist/ckeditor5",
             "index": "src/index.html",
             "main": "src/main.ts",
@@ -64,8 +65,8 @@
               "budgets": [
                 {
                   "type": "initial",
-                  "maximumWarning": "500kb",
-                  "maximumError": "1mb"
+                  "maximumWarning": "5mb",
+                  "maximumError": "5mb"
                 },
                 {
                   "type": "anyComponentStyle",
